@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/keep-do-it-2-0/",
+    "build": "vite build --base=/js_107_costiantynsnaider35/",
     "preview": "vite preview"
   },
   "devDependencies": {
